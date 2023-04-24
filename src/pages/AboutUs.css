@@ -1,0 +1,42 @@
+
+.aboutbg{
+ /* border:2px solid #97844b;  */
+ background-color: #b1aa97;
+}
+.about_bg1 {
+  background-image: url(/src/pages/Choco_img/53.jpg);
+  background-position: center center;
+  background-repeat: repeat; 
+  background-size: contain; 
+  min-height: 60vh;
+  opacity: .6;
+  width: 100%;
+  /* color: #97844b; */
+  /* color: #320c06; */
+  }
+  .about_bg2 {
+    background: #b1aa97;
+    min-height: 60vh;
+  }
+  .about_title {
+    margin-bottom: 50vh;
+  }
+  .about_title2 {
+    width: auto;
+    color: #320c06;
+  }
+  .about_card {
+    background: #e5dec9;
+    margin:auto;
+    max-width: 950px;
+    width: 90%;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 1rem;
+    border: transparent;
+  }
+.about{
+    max-width:75%;
+}
+.about-header{
+    font-size: 2.9rem;
+}

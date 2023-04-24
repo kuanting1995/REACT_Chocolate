@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1",
+    "picture": "https://www.seescandies.com.tw/upload/202112221322466ul3j1.jpeg",
+    "stock": 5,
+    "name": "焦糖杏仁方形牛奶巧克力",
+    "price": 110,
+    "tags": "蘋果,大螢幕"
+  },
+  {
+    "id": "2",
+    "picture": "https://www.seescandies.com.tw/upload/20210903134110jw6wg1.jpeg",
+    "stock": 5,
+    "name": "核桃焦糖黑巧克力",
+    "price": 110,
+    "tags": "蘋果,小螢幕"
+  },
+  {
+    "id": "3",
+    "picture": "https://www.seescandies.com.tw/upload/202109031310239hml51.jpg",
+    "stock": 10,
+    "name": "萊姆白巧克力",
+    "price": 110,
+    "tags": "蘋果,小螢幕"
+  },
+  {
+    "id": "4",
+    "picture": "https://www.seescandies.com.tw/upload/20210831152727dmxr01.png",
+    "stock": 10,
+    "name": "紅糖牛奶巧克力",
+    "price": 110,
+    "tags": "蘋果,大螢幕"
+  },
+  {
+    "id": "5",
+    "picture": "https://www.seescandies.com.tw/upload/202108311510202a90f1.jpg",
+    "stock": 6,
+    "name": "海鹽焦糖黑巧克力",
+    "price": 110,
+    "tags": "安卓,大螢幕"
+  },
+  {
+    "id": "6",
+    "picture": "https://www.seescandies.com.tw/upload/20210903131137gyjn61.jpg",
+    "stock": 6,
+    "name": "太妃腰果白巧克力",
+    "price": 138,
+    "tags": "安卓,大螢幕"
+  },
+  {
+    "id": "7",
+    "picture": "https://www.seescandies.com.tw/upload/20210609131647dky5c1.jpeg",
+    "stock": 6,
+    "name": "杏仁太妃牛奶巧克力",
+    "price": 138,
+    "tags": "安卓,大螢幕"
+  },
+  {
+    "id": "8",
+    "picture": "https://www.seescandies.com.tw/upload/20210630183146rci1f1.png",
+    "stock": 6,
+    "name": "波爾多黑巧克力",
+    "price": 110,
+    "tags": "安卓,大螢幕"
+  },
+  {
+    "id": "9",
+    "picture": "https://www.seescandies.com.tw/upload/202112221322466ul3j1.jpeg",
+    "stock": 5,
+    "name": "焦糖杏仁方形牛奶巧克力",
+    "price": 110,
+    "tags": "蘋果,大螢幕"
+  },
+  {
+    "id": "10",
+    "picture": "https://www.seescandies.com.tw/upload/20210903134110jw6wg1.jpeg",
+    "stock": 5,
+    "name": "核桃焦糖黑巧克力",
+    "price": 110,
+    "tags": "蘋果,小螢幕"
+  },
+  {
+    "id": "11",
+    "picture": "https://www.seescandies.com.tw/upload/202109031310239hml51.jpg",
+    "stock": 10,
+    "name": "萊姆白巧克力",
+    "price": 110,
+    "tags": "蘋果,小螢幕"
+  },
+  {
+    "id": "12",
+    "picture": "https://www.seescandies.com.tw/upload/20210831152727dmxr01.png",
+    "stock": 10,
+    "name": "紅糖牛奶巧克力",
+    "price": 110,
+    "tags": "蘋果,大螢幕"
+  },
+  {
+    "id": "13",
+    "picture": "https://www.seescandies.com.tw/upload/202108311510202a90f1.jpg",
+    "stock": 6,
+    "name": "海鹽焦糖黑巧克力",
+    "price": 110,
+    "tags": "安卓,大螢幕"
+  },
+  {
+    "id": "14",
+    "picture": "https://www.seescandies.com.tw/upload/20210903131137gyjn61.jpg",
+    "stock": 6,
+    "name": "太妃腰果白巧克力",
+    "price": 138,
+    "tags": "安卓,大螢幕"
+  },
+  {
+    "id": "15",
+    "picture": "https://www.seescandies.com.tw/upload/20210609131647dky5c1.jpeg",
+    "stock": 6,
+    "name": "杏仁太妃牛奶巧克力",
+    "price": 138,
+    "tags": "安卓,大螢幕"
+  },
+  {
+    "id": "16",
+    "picture": "https://www.seescandies.com.tw/upload/20210630183146rci1f1.png",
+    "stock": 6,
+    "name": "波爾多黑巧克力",
+    "price": 110,
+    "tags": "安卓,大螢幕"
+  }
+]

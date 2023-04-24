@@ -1,0 +1,14 @@
+.nav-bar{
+  background-color: #ffffff;
+  opacity: .9;
+  /* border: 1.5px solid #97844b;
+  border-style:none none solid none;   */
+  font-family:'Poppins', sans-serif;
+}
+.nav-toggler{
+  background-color: #5A3B34;
+  opacity: .8;
+}
+.noneline{
+  text-decoration: none;
+}
