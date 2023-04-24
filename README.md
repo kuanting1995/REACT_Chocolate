@@ -1,6 +1,5 @@
 
-網站DEMO:
-https://www.youtube.com/watch?v=pPCCGEH2QiA&t=23s
+巧克力購物網站
 
 搭配
 後端:resposeity/Nodejs_chocolate
